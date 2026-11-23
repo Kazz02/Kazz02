@@ -1,6 +1,6 @@
 ## Hey, You👋
 
-### I'm Jesse, a 3rd-year engineering student specializing in software engineering and project management. I'm also very interested in cybersecurity, and my goal is to deepen my understanding in that field and build related projects.
+### I'm Jesse, a 4rd-year engineering student specializing in software engineering and project management. I'm also very interested in cybersecurity, and my goal is to deepen my understanding in that field and build related projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
